@@ -1,0 +1,10 @@
+* cepl.drm-gbm
+
+CEPL backend targetting Linux DRM/GBM
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/malcolmstill/cepl.drm-gbm.git   |
+| commit  | f0d4ceb  |
+| systems | cepl.drm-gbm |
+|---------+-------------------------------------------|
+
